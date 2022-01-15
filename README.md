@@ -10,7 +10,6 @@
 - JS-код чистый и понятный, используется `Prettier`.
 - Стилизация выполнена `CSS-модулями` или `Styled Components`.
 
-
 # Виджет отзывов
 
 Как и большинство компаний, кафе Expresso собирает отзывы от своих клиентов.
@@ -68,4 +67,4 @@ state = {
 того, как был собран хотя бы один отзыв. Сообщение об отсутствиии статистики
 вынеси в компонент `<Notification message="There is no feedback">`.
 
-![preview](./mockup/preview.gif)
+![preview](https://github.com/goitacademy/react-homework/blob/master/homework-02/feedback/mockup/preview.gif?raw=true)
